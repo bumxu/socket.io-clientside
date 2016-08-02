@@ -9,7 +9,7 @@
     "events",
     "client"
   ],
-  "main": "./socket.io.min.js",
+  "main": "./src/socket.io.min.js",
   "contributors": [
     {
       "name": "Guillermo Rauch",
